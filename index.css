@@ -39,9 +39,17 @@
  font-size: 6vh;
  text-align: center;
  display: block;
+ padding-bottom: 20px;
 }
 .Main-Score{
-  font-size: 4vh;
+  font-size: 2vh;
   margin-left: 20%;
+
+}
+.High-MScore{
+  font-size: 2vh;
+  margin-left: 60%;
+}
+.last-div{
 
 }
