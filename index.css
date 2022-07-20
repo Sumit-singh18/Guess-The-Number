@@ -1,0 +1,47 @@
+.alert {
+  background-color: rgb(190, 198, 79);
+}
+.guess_1 {
+  font-size: 8vh;
+  text-align: center;
+}
+
+.guess {
+  font-size: 8vh;
+  text-align: center;
+  padding-bottom: 25px;
+}
+.number {
+  text-align: center;
+  padding-bottom: 25px;
+  font-size: 6vh;
+}
+.input {
+  margin: auto;
+  display: block;
+  font-size: 4vh;
+  text-align: center;
+  margin-bottom: 45px;
+}
+.check {
+  display: inline-block;
+  margin-bottom: 25px;
+  font-size: 2vh;
+  margin-left: 40%;
+}
+
+.try-again{
+    display: inline-block;
+    font-size: 2vh;
+    margin-left: 4%;
+}
+.Start-guess{
+ font-size: 6vh;
+ text-align: center;
+ display: block;
+}
+.Main-Score{
+  font-size: 4vh;
+  margin-left: 20%;
+
+}
