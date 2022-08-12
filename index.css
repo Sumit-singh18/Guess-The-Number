@@ -1,3 +1,6 @@
+*{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 .alert {
   background-color: rgb(190, 198, 79);
 }
@@ -49,7 +52,4 @@
 .High-MScore{
   font-size: 2vh;
   margin-left: 60%;
-}
-.last-div{
-
 }
